@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-86-react-node-Tkachuk-Yaroslav/static/css/main.1ca8fd79.css",
-    "main.js": "/fs-86-react-node-Tkachuk-Yaroslav/static/js/main.8b956dc6.js",
+    "main.js": "/fs-86-react-node-Tkachuk-Yaroslav/static/js/main.8680472c.js",
     "static/js/818.d7bba665.chunk.js": "/fs-86-react-node-Tkachuk-Yaroslav/static/js/818.d7bba665.chunk.js",
     "static/js/558.1a8a20e8.chunk.js": "/fs-86-react-node-Tkachuk-Yaroslav/static/js/558.1a8a20e8.chunk.js",
     "static/js/494.4867279f.chunk.js": "/fs-86-react-node-Tkachuk-Yaroslav/static/js/494.4867279f.chunk.js",
@@ -35,7 +35,7 @@
     "static/media/avocado.png": "/fs-86-react-node-Tkachuk-Yaroslav/static/media/avocado.4b09d53aa12a58ab901f.png",
     "index.html": "/fs-86-react-node-Tkachuk-Yaroslav/index.html",
     "main.1ca8fd79.css.map": "/fs-86-react-node-Tkachuk-Yaroslav/static/css/main.1ca8fd79.css.map",
-    "main.8b956dc6.js.map": "/fs-86-react-node-Tkachuk-Yaroslav/static/js/main.8b956dc6.js.map",
+    "main.8680472c.js.map": "/fs-86-react-node-Tkachuk-Yaroslav/static/js/main.8680472c.js.map",
     "818.d7bba665.chunk.js.map": "/fs-86-react-node-Tkachuk-Yaroslav/static/js/818.d7bba665.chunk.js.map",
     "558.1a8a20e8.chunk.js.map": "/fs-86-react-node-Tkachuk-Yaroslav/static/js/558.1a8a20e8.chunk.js.map",
     "494.4867279f.chunk.js.map": "/fs-86-react-node-Tkachuk-Yaroslav/static/js/494.4867279f.chunk.js.map",
@@ -55,6 +55,6 @@
   },
   "entrypoints": [
     "static/css/main.1ca8fd79.css",
-    "static/js/main.8b956dc6.js"
+    "static/js/main.8680472c.js"
   ]
 }
