@@ -11,7 +11,7 @@ import { Toaster } from 'react-hot-toast';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/project-fitness-app">
+    <BrowserRouter basename="/fs-86-react-node-Tkachuk-Yaroslav">
       <Provider store={store}>
         <PersistGate loading={null} persistor={persistor}>
           <GlobalStyle />
